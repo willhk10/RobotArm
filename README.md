@@ -38,4 +38,4 @@ touch_A1 = touchio.TouchIn(board.A1)
     # How do we stop the servo? Will need to find a way to stop it if something gets caught in it because it makes loud, annoying noises.
     # Maybe we make it self-destruct for laughs.
     
-# (Link to onshape)[#https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8]
+# [Link to onshape](#https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
