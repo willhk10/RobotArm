@@ -1,6 +1,6 @@
 # RobotArm
 
-#PseudoCode
+# PseudoCode
 
 Move servo back and forth
 startup the servo
