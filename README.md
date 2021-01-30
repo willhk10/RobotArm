@@ -1,6 +1,31 @@
 # RobotArm
 
-# PseudoCode
+## Project Planning
+1) Create your question:
+        a) What’s the problem you’re trying to solve?
+            Some people are too lazy to go outside and play with their dog or they are incapable of doing so. 
+        b) How will you determine if you’ve solved your problem?  (make sure your problem is specific and testable!)
+            We will have constructed a working robot arm that is capable of throwing a ball at a set distance. 
+2) Break down your problem:
+    a) Criteria (goals):
+        i) How does it solve the problem?
+            It solves the problem by throwing a ball set distances. The distances can be changed manually.
+        ii) What is it going to do?
+            It is going to throw the ball using servos and different joints.
+
+    b) Constraints (limitations)
+        i) Don’t hurt anyone
+        ii) Budget:
+            Ideally $0. 
+        iii) Time frame (roughly 2 months)
+            Roughly 2 months
+        iv) Size (laser cutter: 300mm x 600mm , 3d Printer 8”x8”x9”)
+            Size laser cutter 300mm x 600mm, 3d Printer 8”x8”x9”
+        v) Any knowledge limitations that you’ll need to correct?
+            no. our knowledge is infinite. (This is a joke, there will be obstacles we encounter that we may not know the answer to.)
+
+
+## PseudoCode
 
 Move servo back and forth
 startup the servo
@@ -18,7 +43,7 @@ pwm = pulseio.PWMOut(board.A3, duty_cycle=2 ** 15, frequency=50)
 
 my_servo = servo.ContinousServo(pwm)
 
-# Using touch for telling the robot arm to throw
+### Using touch for telling the robot arm to throw
 touch_A1 = touchio.TouchIn(board.A1)
 
 
