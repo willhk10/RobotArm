@@ -12,6 +12,7 @@
 2) Break down your problem:
 
     a) Criteria (goals):
+    
         i) How does it solve the problem?
             It solves the problem by throwing a ball set distances. The distances can be changed manually.
             
