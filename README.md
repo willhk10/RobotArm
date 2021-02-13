@@ -79,6 +79,6 @@ touch_A1 = touchio.TouchIn(board.A1)
 
 # 2/12/21
 Further planning and research -
-        Ordered a 25kg digital servo motor
+        Picked up a 25kg digital servo motor
         continued onshape work
         furthered our knowledge with the coding aspect of the project
