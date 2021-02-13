@@ -75,3 +75,10 @@ touch_A1 = touchio.TouchIn(board.A1)
     # Maybe we make it self-destruct for laughs.
     
 # [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
+
+
+# 2/12/21
+Further planning and research -
+        Ordered a 25kg digital servo motor
+        continued onshape work
+        furthered our knowledge with the coding aspect of the project
