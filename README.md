@@ -75,7 +75,7 @@ touch_A1 = touchio.TouchIn(board.A1)
     # Maybe we make it self-destruct for laughs.
     
 # [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
-###### I was unable to find the particular servo that we will be using within OnShape so instead I created our prototype to as closely resemble our final product as possible. 
+##### I was unable to find the particular servo that we will be using within OnShape so instead I created our prototype to as closely resemble our final product as possible. 
 
 
 # 2/12/21
