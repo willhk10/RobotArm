@@ -84,5 +84,7 @@ Further planning and research -
         * Furthered our knowledge with the coding aspect of the project
         * Next step is to work on programming the motor and determing the angular velocity and acceleration to make sure it will meet the requirements to throw a ball.
         * Will make a prototype base and arm
-       <img src="image_55415491.JPG" width="300px" /> 
+        
+       
+<img src="image_55415491.JPG" width="300px" /> 
 
