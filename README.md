@@ -1,5 +1,7 @@
 # RobotArm
 
+# Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
+
 ## Project Planning
 1) Create your question:
 
