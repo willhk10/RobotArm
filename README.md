@@ -83,6 +83,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 
 # 2/12/21
 Further planning and research -
+
         * Picked up a 25kg digital servo motor
         * Continued OnShape work
         * Furthered our knowledge with the coding aspect of the project
