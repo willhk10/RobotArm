@@ -1,8 +1,8 @@
 # RobotArm
 Quick links - 
 
-* # [2/12/21](2/12/21)
-* # [2/22/21](2/22/21)
+* # [2/12/21](#2/12/21)
+* # [2/22/21](#2/22/21)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
 
