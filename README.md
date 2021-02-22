@@ -101,7 +101,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 ---
 
 # Week2
-##2.22.21
+## 2.22.21
 ## Progress made - 
 
 * Purchased a servo controller to mess with the servo without having to use code. This speeds up the testing and debugging process
@@ -115,3 +115,4 @@ touch_A1 = touchio.TouchIn(board.A1)
 ---
 
 
+# [BACK TO TOP](#RobotArm)
