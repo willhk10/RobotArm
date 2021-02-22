@@ -1,8 +1,8 @@
 # RobotArm
 ## Quick links - 
 
-* ### [First entry](#2/12/21)
-* ### [Second entry - 2/22/21](#2/22/21)
+* ### [First entry - 2/21/21](#2.12.21)
+* ### [Second entry - 2/22/21](#2.22.21)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
 
@@ -85,7 +85,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 
 ---
 
-# 2/12/21
+# 2.12.21
 Further planning and research -
 
 * Picked up a 25kg digital servo motor       
@@ -99,7 +99,7 @@ Further planning and research -
 
 ---
 
-# 2/22/21
+# 2.22.21
 ## Progress made - 
 * Purchased a servo controller to mess with the servo without having to use code. This speeds up the testing and debugging process
 * Determined that the use of 2 servos would be necessary in order to throw the ball at least 15 feet using calculus and angular momentum and force laws.
