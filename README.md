@@ -85,8 +85,9 @@ touch_A1 = touchio.TouchIn(board.A1)
 
 ---
 
-# 2_12_21
-Further planning and research -
+# Week1 -
+## 2/12/21
+## Further planning and research -
 
 * Picked up a 25kg digital servo motor       
 * Continued OnShape work
@@ -99,8 +100,10 @@ Further planning and research -
 
 ---
 
-# 2.22.21
+# Week2
+##2.22.21
 ## Progress made - 
+
 * Purchased a servo controller to mess with the servo without having to use code. This speeds up the testing and debugging process
 * Determined that the use of 2 servos would be necessary in order to throw the ball at least 15 feet using calculus and angular momentum and force laws.
 * Used angular velocity to determine the horizontal displacement of the ball using the length of the arm and the velocity of the arm at the launch point.
@@ -109,6 +112,6 @@ Further planning and research -
 * Determined the velocity and timing of second servo for optimal launch velocity and angle using calculus and force laws.
 
 
-
+---
 
 
