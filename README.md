@@ -1,8 +1,8 @@
 # RobotArm
 ## Quick links - 
 
-* ### [First entry - 2/21/21](#2_12_21)
-* ### [Second entry - 2/22/21](#2.22.21)
+* ### [First entry - 2/21/21](#Week1)
+* ### [Second entry - 2/22/21](#Week2)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
 
