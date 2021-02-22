@@ -103,7 +103,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 ## 2.22.21
 ## Progress made - 
 
-* Purchased a servo controller to mess with the servo without having to use code. This speeds up the testing and debugging process
+* Purchased a [servo controller](https://www.amazon.com/gp/product/B07TQSKLBK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) to mess with the servo without having to use code. This speeds up the testing and debugging process
 * Determined that the use of 2 servos would be necessary in order to throw the ball at least 15 feet using calculus and angular momentum and force laws.
 * Used angular velocity to determine the horizontal displacement of the ball using the length of the arm, rotation speed, and the velocity of the arm at the launch point.
 * Purchased additional servo
