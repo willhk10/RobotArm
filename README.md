@@ -85,6 +85,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 Further planning and research -
 
         * Picked up a 25kg digital servo motor
+        
         * Continued OnShape work
         * Furthered our knowledge with the coding aspect of the project
         * Next step is to work on programming the motor and determing the angular velocity and acceleration to make sure it will meet the requirements to throw a ball.
