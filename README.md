@@ -110,7 +110,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 * Began prototyping arms
 * Determined the velocity and timing of second servo for optimal launch velocity and angle using calculus and force laws.
 
-<img src="IMG-0635.jpg" width="700px" /> 
+                                                              <img src="IMG-0635.jpg" width="700px" /> 
 
 
 ---
