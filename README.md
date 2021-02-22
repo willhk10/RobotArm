@@ -85,7 +85,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 
 ---
 
-# Week1 -
+# Week1
 ## 2/12/21
 ## Further planning and research -
 
