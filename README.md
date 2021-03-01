@@ -2,6 +2,7 @@
 ## Quick links - 
 * ### [First entry - 2/21/21](#Week1)
 * ### [Second entry - 2/22/21](#Week2)
+* ### [Third entry - 2/29/21](#Week3)
 * ### [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
