@@ -127,5 +127,6 @@ touch_A1 = touchio.TouchIn(board.A1)
 * Received the [servo tester](https://www.amazon.com/gp/product/B07TQSKLBK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 * Attached it to the servo arm and cut additional pieces of Sheetmetal for prototyping
 * Began to format code and figure out how code works.
+* We have planned to meet in person to work on our project, of course while abiding by health precautions, and hope to come close to creating a finished Robot Arm. 
 
 <img src="IMG-0635.jpg" width="700px" /> 
