@@ -129,4 +129,4 @@ touch_A1 = touchio.TouchIn(board.A1)
 * Began to format code and figure out how code works.
 * We have planned to meet in person to work on our project, of course while abiding by COVID precautions, and hope to come close to creating a finished Robot Arm. 
 
-<img src="IMG-0635.jpg" width="700px" /> 
+<img src="IMG-0682.jpg" width="700px" /> 
