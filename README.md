@@ -118,3 +118,13 @@ touch_A1 = touchio.TouchIn(board.A1)
 
 
 # [BACK TO TOP](#RobotArm)
+
+# Week3
+## 2.29.21
+## Progress made - 
+
+* Received the [servo tester](https://www.amazon.com/gp/product/B07TQSKLBK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+* Attached it to the servo arm and cut additional pieces of Sheetmetal for prototyping
+* Began to format code and figure out how code works.
+
+<img src="IMG-0635.jpg" width="700px" /> 
