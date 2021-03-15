@@ -138,7 +138,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 
 * We congregated at William's house, while of course abiding by COVID precautions, to revise our arm.
 * Programmed our arm to throw a set distance into a cup.
-        * Revised code and prototype to make sure this action was repeatable. 
+* Revised code and prototype to make sure this action was repeatable. 
 * Spoke with Mr. H about how to improve our arm. 
 
 # [BACK TO TOP](#RobotArm)
