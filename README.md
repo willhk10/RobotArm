@@ -3,6 +3,7 @@
 * ### [First entry - 2/21/21](#Week1)
 * ### [Second entry - 2/22/21](#Week2)
 * ### [Third entry - 2/29/21](#Week3)
+* ### [Fourth entry - 3/3/21](#Week4)
 * ### [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
@@ -128,5 +129,16 @@ touch_A1 = touchio.TouchIn(board.A1)
 * We have planned to meet in person to work on our project, of course while abiding by COVID precautions, and hope to come close to creating a finished Robot Arm. 
 
 <img src="IMG-0682.jpg" width="700px" /> 
+
+---
+
+# Week4
+## 3.3.21
+## Progress made - 
+
+* We congregated at William's house, while of course abiding by COVID precautions, to revise our arm.
+* Programmed our arm to throw a set distance into a cup.
+        * Revised code and prototype to make sure this action was repeatable. 
+* Spoke with Mr. H about how to improve our arm. 
 
 # [BACK TO TOP](#RobotArm)
