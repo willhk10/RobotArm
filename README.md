@@ -2,8 +2,9 @@
 ## Quick links - 
 * ### [First entry - 2/21/21](#Week1)
 * ### [Second entry - 2/22/21](#Week2)
-* ### [Third entry - 2/29/21](#Week3)
-* ### [Fourth entry - 3/3/21](#Week4)
+* ### [Third entry - 3/1//21](#Week3)
+* ### [Fourth entry - 3/8/21](#Week4)
+* ### [Fifth entry - 3/15/21](#Week5)
 * ### [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
@@ -87,7 +88,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 ---
 
 # Week1
-## 2/12/21
+## 2.12.21
 ## Further planning and research -
 
 * Picked up a 25kg digital servo motor       
@@ -120,7 +121,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 
 
 # Week3
-## 2.29.21
+## 3.1.21
 ## Progress made - 
 
 * Received the [servo tester](https://www.amazon.com/gp/product/B07TQSKLBK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
@@ -130,18 +131,32 @@ touch_A1 = touchio.TouchIn(board.A1)
 
 <img src="IMG-0682.jpg" width="700px" /> 
 
----
-
-# Week4
 ## 3.3.21
-## Progress made - 
 
 * We congregated at William's house, while of course abiding by COVID precautions, to revise our arm.
 * Programmed our arm to throw a set distance into a cup.
 * Revised code and prototype to make sure this action was repeatable. 
 * Spoke with Mr. H about how to improve our arm. 
+---
+
+# Week4
+## 3.8.21
+## Progress made - 
+
+* We congregated at William's house again to continue working on our arm.
+* Continued work on OnShape and Circuit Python
+* Wired up our LCD Screen and our Rotary Encoder. 
 
 <img src="JaiAlai.jpg" width="700px" /> 
-* This is the inspiration for the "hand" of our arm.
+This is the inspiration for the "hand" of our arm.
 
+---
+
+# Week5
+## 3.15.21
+## Progress made - 
+
+* Met at William's house again on Wednesday, March 17th.
+* Revised our GitHub and made sure it was up to date. 
+* Programmed LCD Screen and Rotary Encoder. 
 # [BACK TO TOP](#RobotArm)
