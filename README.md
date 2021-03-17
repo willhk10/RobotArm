@@ -146,7 +146,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 * We congregated at William's house again to continue working on our arm.
 * Continued work on OnShape and Circuit Python.
 * Mr. H gave us the idea to use a rotary encoder to make our project easier to use and less complicated for the user. 
-#^  This would  
+* Using the rotary encoder, you can turn it the desired amount and click down on the switch to run the code. This allows us to complete the same functions that a potentiometer and button are able to complete with one switch as opposed to two. 
 
 <img src="JaiAlai.jpg" width="700px" /> 
 This is the inspiration for the "hand" of our arm.
