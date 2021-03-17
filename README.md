@@ -141,4 +141,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 * Revised code and prototype to make sure this action was repeatable. 
 * Spoke with Mr. H about how to improve our arm. 
 
+<img src="JaiAlai.jpg" width="700px" /> 
+* This is the inspiration for the "hand" of our arm.
+
 # [BACK TO TOP](#RobotArm)
