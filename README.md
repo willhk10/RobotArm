@@ -144,8 +144,9 @@ touch_A1 = touchio.TouchIn(board.A1)
 ## Progress made - 
 
 * We congregated at William's house again to continue working on our arm.
-* Continued work on OnShape and Circuit Python
-* Wired up our LCD Screen and our Rotary Encoder. 
+* Continued work on OnShape and Circuit Python.
+* Mr. H gave us the idea to use a rotary encoder to make our project easier to use and less complicated for the user. 
+#* This would  
 
 <img src="JaiAlai.jpg" width="700px" /> 
 This is the inspiration for the "hand" of our arm.
@@ -158,7 +159,7 @@ This is the inspiration for the "hand" of our arm.
 
 * Met at William's house again on Wednesday, March 17th.
 * Revised our GitHub and made sure it was up to date. 
-* Programmed LCD Screen and Rotary Encoder. 
+* Wired and programmed LCD Screen and rotary encoder. 
 <img src="IMG_6394.jpg" width="700px" />
 
 # [BACK TO TOP](#RobotArm)
