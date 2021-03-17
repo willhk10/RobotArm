@@ -159,4 +159,6 @@ This is the inspiration for the "hand" of our arm.
 * Met at William's house again on Wednesday, March 17th.
 * Revised our GitHub and made sure it was up to date. 
 * Programmed LCD Screen and Rotary Encoder. 
+<img src="IMG_6394.jpg" width="700px" />
+
 # [BACK TO TOP](#RobotArm)
