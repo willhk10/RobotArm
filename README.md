@@ -149,7 +149,7 @@ touch_A1 = touchio.TouchIn(board.A1)
 * Using the rotary encoder, you can turn it the desired amount and click down on the switch to run the code. This allows us to complete the same functions that a potentiometer and button are able to complete with one switch as opposed to two. 
 
 <img src="JaiAlai.jpg" width="700px" /> 
-This is the inspiration for the "hand" of our arm.
+This is an image of the sport Jai Alai. The throwing arm used in the sport is the inspiration for the "hand" of our arm.
 
 ---
 
