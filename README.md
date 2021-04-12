@@ -162,4 +162,11 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 * Wired and programmed LCD Screen and rotary encoder. 
 <img src="IMG_6394.jpg" width="700px" />
 
+
+#Week6
+## 4.1.21
+## Progress made -
+
+* Decided to add counter weight to reduce stress on the servo
+
 # [BACK TO TOP](#RobotArm)
