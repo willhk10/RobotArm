@@ -168,8 +168,8 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 ## 4.12.21
 ## Progress made -
 
+* Revised our OnShape to include the correct servo, as well as adding the appropriate mates in order to complete our prototype. 
 * Decided to add counter weight to reduce stress on the servo
-* Revised our OnShape to include the correct servo, as well as adding the appropriate mates to complete our prototype. 
 * <img src="Counterweight.jpg" width="700px" /> 
 
 # [BACK TO TOP](#RobotArm)
