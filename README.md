@@ -168,6 +168,7 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 ## 4.12.21
 ## Progress made -
 
+* Today was the first day back in school since March 13th, 2020!
 * Revised our OnShape to include the correct servo, as well as adding the appropriate mates in order to complete our prototype. 
 * Decided to add counter weight to reduce stress on the servo
 * <img src="Counterweight.jpg" width="700px" /> 
