@@ -6,6 +6,7 @@
 * ### [Fourth entry - 3/8/21](#Week4)
 * ### [Fifth entry - 3/15/21](#Week5)
 * ### [Sixth entry - 4/12/21](#Week6)
+* ### [Seventh entry - 4/19/21](#Week7)
 * ### [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
@@ -170,7 +171,17 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 
 * Today was the first day back in school since March 13th, 2020!
 * Revised our OnShape to include the correct servo, as well as adding the appropriate mates in order to complete our prototype. 
-* Decided to add counter weight to reduce stress on the servo
+* Decided to add counter weight to reduce stress on the servo.
 * <img src="Counterweight.jpg" width="700px" /> 
+
+# Week6
+## 4.12.21
+## Progress made -
+
+* Made revisions to our model on OnShape.
+* We revised the legs, arms, and hand of our model. 
+* In order to improve the structural integrity of our project, we made our legs extend further outward from the base of our arm, as well as lessen the distance from the bottom of our base to the top of our legs. 
+* add info about arm revision
+* The original model of our hand had an appearance similar to what we desired, but it did not accomplish the goal needed. We wanted our hand to curve, similar to that of a jai alai. To do so, we used the sweep feature, allowing us to extrude along a curved line and accomplish our goal of a curved hand. 
 
 # [BACK TO TOP](#RobotArm)
