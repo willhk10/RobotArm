@@ -184,4 +184,6 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 * William revised our bottom arm to incorporate a slide that can hold a counterweight. The slide allows the counterweight move up and down to better reduce the stress on the servos. 
 * The original model of our hand had an appearance similar to what we desired, but it did not accomplish the goal needed. We wanted our hand to curve, similar to that of a jai alai. To do so, we used the sweep feature, allowing us to extrude along a curved line and accomplish our goal of a curved hand. 
 * <img src="OGHand.jpg" width="300px" height="650px" /> <img src="RevisedHand.jpg" width="300px" /> 
+
+<img src="giflol.gif" width="300px" height="650px" /> <img src="RevisedHand.jpg" width="300px" /> 
 # [BACK TO TOP](#RobotArm)
