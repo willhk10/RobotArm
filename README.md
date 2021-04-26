@@ -183,5 +183,5 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 * In order to improve the structural integrity of our project, we made our legs extend further outward from the base of our arm, as well as lessen the distance from the bottom of our base to the top of our legs. 
 * add info about arm revision
 * The original model of our hand had an appearance similar to what we desired, but it did not accomplish the goal needed. We wanted our hand to curve, similar to that of a jai alai. To do so, we used the sweep feature, allowing us to extrude along a curved line and accomplish our goal of a curved hand. 
-* <img src="OGHand.jpg" width="300px" height="300px" /> <img src="RevisedHand.jpg" width="300px" /> 
+* <img src="OGHand.jpg" width="300px" height="750px" /> <img src="RevisedHand.jpg" width="300px" /> 
 # [BACK TO TOP](#RobotArm)
