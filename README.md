@@ -174,7 +174,7 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 * Decided to add counter weight to reduce stress on the servo.
 * <img src="Counterweight.jpg" width="700px" /> 
 
-# Week6
+# Week7
 ## 4.12.21
 ## Progress made -
 
