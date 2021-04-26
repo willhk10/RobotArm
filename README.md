@@ -190,4 +190,3 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 
 # [BACK TO TOP](#RobotArm)
 
-# [BACK TO TOP] (#RobotArm)
