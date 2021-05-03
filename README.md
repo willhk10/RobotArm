@@ -198,7 +198,7 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 * Since hollowing out the parts would reduce the structural integrity of our project, William thought of the idea to add beams to better bear the weight of our base. 
 
 <img src="RevisedLeg.jpg" width="700px" />
-<img src="IMG_6394.jpg" width="700px" />
-<img src="IMG_6394.jpg" width="700px" />
+<img src="RevisedSmallerArm.jpg" width="300px" height "600 px"/>
+<img src="RevisedLargerArm.jpg" width="300px" height "700 px"/>
 # [BACK TO TOP](#RobotArm)
 
