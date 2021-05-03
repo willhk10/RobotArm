@@ -197,7 +197,7 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 * By hollowing out certain parts of our arms and legs, we reduced the amount of material that is going to be used to print our parts. 
 * Since hollowing out the parts would reduce the structural integrity of our project, William thought of the idea to add beams to better bear the weight of our base. 
 
-<img src="RevisedSmallerArm.jpg" width="250px" height "500 px"/> <img src="RevisedLargerArm.jpg" width="300px" height "600 px"/>
+<img src="RevisedSmallerArm.jpg" width="250px" height "500px"/> <img src="RevisedLargerArm.jpg" width="300px" height "600px"/>
 <img src="RevisedLeg.jpg" width="600px" />
 # [BACK TO TOP](#RobotArm)
 
