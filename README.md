@@ -7,6 +7,7 @@
 * ### [Fifth entry - 3/15/21](#Week5)
 * ### [Sixth entry - 4/12/21](#Week6)
 * ### [Seventh entry - 4/19/21](#Week7)
+* ### [Eighth entry - 4/26/21](#Week8)
 * ### [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
@@ -188,7 +189,7 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
  <img src="image0-2-1.gif" width="300px" /> 
 <img src="271ed1c5814edf109abeaf9f5a3a802a.gif" width="300px" height="650px" />
 
-# Week7
+# Week8
 ## 4.26.21
 ## Progress made -
 
