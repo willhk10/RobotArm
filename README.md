@@ -175,7 +175,7 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 * <img src="Counterweight.jpg" width="700px" /> 
 
 # Week7
-## 4.12.21
+## 4.19.21
 ## Progress made -
 
 * Made revisions to our model on OnShape.
@@ -187,6 +187,14 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 
  <img src="image0-2-1.gif" width="300px" /> 
 <img src="271ed1c5814edf109abeaf9f5a3a802a.gif" width="300px" height="650px" />
+
+# Week7
+## 4.26.21
+## Progress made -
+
+* Made revisions to our OnShape model in order to make it lighter. 
+* By hollowing out certain parts of our arms and legs, we reduced the amount of material that is going to be used to print our parts. 
+* Since hollowing out the parts would reduce the structural integrity of our project, William thought of the idea to add beams to better bear the weight of our base. 
 
 # [BACK TO TOP](#RobotArm)
 
