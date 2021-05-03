@@ -200,5 +200,6 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 <img src="RevisedSmallerArm.jpg" width="250px" height="500px"/> 
 <img src="RevisedLargerArm.jpg" width="300px" height="600px"/>
 <img src="RevisedLeg.jpg" width="600px" />
+
 # [BACK TO TOP](#RobotArm)
 
