@@ -200,5 +200,13 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 <img src="RevisedSmallerArm.jpg" width="200px" height="400px"/>  <img src="RevisedLargerArm.jpg" width="200px" height="500px"/>
 <img src="RevisedLeg.jpg" width="600px" />
 
+# Week8
+## 5.3.21
+## Progress made -
+
+* When attempting to print our lower arm on Monday the 3rd, we encountered an error. When inserting our arm into GrabCAD in order to 3d print it, we realized it was too long and it would be unable to print. In order to fix this we broke the arm into two pieces, making the piece that held the counterweight a seperate part.  
+* Added a friction fit leg piece in order to better stabalize our arm. 
+* Removed cross sections trusses in order to streamline the printing process.
+
 # [BACK TO TOP](#RobotArm)
 
