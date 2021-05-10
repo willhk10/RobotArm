@@ -1,4 +1,4 @@
-# RobotArm
+# *RobotArm*
 ## Quick links - 
 * ### [First entry - 2/21/21](#Week1)
 * ### [Second entry - 2/22/21](#Week2)
