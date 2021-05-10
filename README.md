@@ -209,5 +209,7 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 * Added friction fit feet pieces to the bottom of the legs in order to better stabilize our model. 
 * Removed cross sections trusses on our arms in order to streamline the printing process.
 
+<img src="Foot.jpg" width="600px" />
+
 # [BACK TO TOP](#RobotArm)
 
