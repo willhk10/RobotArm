@@ -8,6 +8,7 @@
 * ### [Sixth entry - 4/12/21](#Week6)
 * ### [Seventh entry - 4/19/21](#Week7)
 * ### [Eighth entry - 4/26/21](#Week8)
+* ### [Ninth entry - 4/26/21](#Week9)
 * ### [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
@@ -200,13 +201,13 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 <img src="RevisedSmallerArm.jpg" width="200px" height="400px"/>  <img src="RevisedLargerArm.jpg" width="200px" height="500px"/>
 <img src="RevisedLeg.jpg" width="600px" />
 
-# Week8
+# Week9
 ## 5.3.21
 ## Progress made -
 
-* When attempting to print our lower arm on Monday the 3rd, we encountered an error. When inserting our arm into GrabCAD in order to 3d print it, we realized it was too long and it would be unable to print. In order to fix this we broke the arm into two pieces, making the piece that held the counterweight a seperate part.  
-* Added a friction fit leg piece in order to better stabalize our arm. 
-* Removed cross sections trusses in order to streamline the printing process.
+* When attempting to print our lower arm on Monday May 3rd, we encountered an error. When inserting our arm into GrabCAD in order to 3D print it, we realized it was too long and would be unable to print. In order to fix this we broke the arm into two pieces, making the piece that held the counterweight a seperate part.
+* Added friction fit feet pieces to the bottom of the legs in order to better stabilize our model. 
+* Removed cross sections trusses on our arms in order to streamline the printing process.
 
 # [BACK TO TOP](#RobotArm)
 
