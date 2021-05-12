@@ -211,5 +211,12 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 
 <img src="Foot.jpg" width="600px" />
 
+# Week10
+## 5.10.21
+## Progress made -
+
+* Since Lucas was in person on this day, with the assistance of Dr. Shields, he started 3D printing our parts. 
+*       Unfortunately, during the printing process the printer malfunctioned and our parts were unable to be completed.
+*       On Wednesday the 12th, Mr. H was kind enough to resume the printing process for us since we were both asynchronous and unable to do so. 
 # [BACK TO TOP](#RobotArm)
 
