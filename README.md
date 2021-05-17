@@ -216,5 +216,13 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 ## Progress made -
 
 * Since Lucas was in person on the 10th, with the assistance of Dr. Shields, he started 3D printing our parts. Unfortunately, during the printing process the printer malfunctioned and our parts were unable to be completed. However, on Wednesday the 12th, Mr. H was kind enough to resume the printing process for us since we were both asynchronous and unable to do so. 
-# [BACK TO TOP](#RobotArm)
 
+
+# Week11
+## 5.17.21
+## Progress made -
+
+* Printing!!! And working on code at William's house 
+<img src ="coolpart.jpg" width ="600px" />
+
+# [BACK TO TOP](#RobotArm)
