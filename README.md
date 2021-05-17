@@ -1,14 +1,15 @@
 # *RobotArm*
 ## Quick links - 
-* ### [First entry - 2/21/21](#Week1)
-* ### [Second entry - 2/22/21](#Week2)
-* ### [Third entry - 3/1//21](#Week3)
-* ### [Fourth entry - 3/8/21](#Week4)
-* ### [Fifth entry - 3/15/21](#Week5)
-* ### [Sixth entry - 4/12/21](#Week6)
-* ### [Seventh entry - 4/19/21](#Week7)
-* ### [Eighth entry - 4/26/21](#Week8)
-* ### [Ninth entry - 4/26/21](#Week9)
+* ### [1st entry - 2/21/21](#Week1)
+* ### [2nd entry - 2/22/21](#Week2)
+* ### [3rd entry - 3/1//21](#Week3)
+* ### [4th entry - 3/8/21](#Week4)
+* ### [5th entry - 3/15/21](#Week5)
+* ### [6th entry - 4/12/21](#Week6)
+* ### [7th entry - 4/19/21](#Week7)
+* ### [8th entry - 4/26/21](#Week8)
+* ### [9th entry - 4/26/21](#Week9)
+* ### [10th entry - 4/26/21](#Week10)
 * ### [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
