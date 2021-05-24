@@ -226,6 +226,7 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 ## Progress made -
 
 * Printing!!! And working on code at William's house 
+* Dr. Shields made recommended edits to our OnShape model, more specifically our hand, in order to make the printing process more streamlined and make the assembling our project easier. 
 <img src ="coolpart.jpg" width ="600px" />
 
 # [BACK TO TOP](#RobotArm)
