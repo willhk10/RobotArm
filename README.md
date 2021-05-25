@@ -11,6 +11,7 @@
 * ### [9th entry - 5/3/21](#Week9)
 * ### [10th entry - 5/10/21](#Week10)
 * ### [11th entry - 5/17/21](#Week11)
+* ### [12th entry - 5/24/21](#Week12)
 * ### [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
@@ -226,5 +227,11 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 * Printing!!! And working on code at William's house 
 * Dr. Shields made recommended edits to our OnShape model, more specifically our hand, in order to make the printing process more streamlined and make the assembling our project easier. 
 <img src ="coolpart.jpg" width ="600px" />
+
+# Week12
+## 5.24.21
+## Progress made -
+
+* This week Lucas started the some of final steps to completing our project, the laser cutting of the legs and feet needed to support our project.
 
 # [BACK TO TOP](#RobotArm)
