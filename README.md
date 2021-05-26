@@ -233,6 +233,7 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 ## Progress made -
 
 * This week Lucas started the some of final steps to completing our project, the laser cutting of the legs and feet needed to support our project.
+* We congregated again at William's house in order to continue the assembly of our project and discuss the final steps needed for its completion. 
 
 <img src ="Leg1.jpg" width ="600px" height ="200px" />  <img src ="Leg2.jpg" width ="600px" height ="200px" />
 
