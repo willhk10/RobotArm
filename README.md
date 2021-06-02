@@ -237,4 +237,11 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 
 <img src ="Leg1.jpg" width ="600px" height ="200px" />  <img src ="Leg2.jpg" width ="600px" height ="200px" />
 
+# Week13 
+## 5.31.21
+## Progress made - 
+
+* Sadly with both William and Lucas having to take AP Exams, time is dwindling down. Since we had made so much progress we didn't want to give up on our project entirely so we decided to scrap the idea of having a base and legs that would be able to support our arm. Instead, we will anchor our lower servo to a piece of wood and use our newly fabricated arm and hand pieces to create our finished project.
+* We are going to do this the following week when we can meet at William's house.  
+
 # [BACK TO TOP](#RobotArm)
