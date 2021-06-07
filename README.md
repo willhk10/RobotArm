@@ -12,6 +12,8 @@
 * ### [10th entry - 5/10/21](#Week10)
 * ### [11th entry - 5/17/21](#Week11)
 * ### [12th entry - 5/24/21](#Week12)
+* ### [13th entry - 5/31/21](#Week13)
+* ### [14th entry - 6/7/21](#Week14)
 * ### [Link to onshape](https://cvilleschools.onshape.com/documents/bfcc8641be00469b99913a23/w/555fef59cc0d17192df0b7e0/e/882c596853e85d5789769ae8)
 
 # Note: examples lacking. provide inspiration. look at trebuchet pumpkin chuckers and other robotic arms
@@ -243,5 +245,11 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 
 * Sadly with both William and Lucas having to take AP Exams, time is dwindling down. Since we had made so much progress we didn't want to give up on our project entirely so we decided to scrap the idea of having a base and legs that would be able to support our arm. Instead, we will anchor our lower servo to a piece of wood and use our newly fabricated arm and hand pieces to create our finished project.
 * We are going to do this the following week when we can meet at William's house.  
+
+# Week14 
+## 6.7.21
+## Progress made - 
+
+*
 
 # [BACK TO TOP](#RobotArm)
