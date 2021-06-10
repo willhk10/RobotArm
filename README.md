@@ -250,8 +250,9 @@ This is an image of the sport Jai Alai. The throwing arm used in the sport is th
 ## 6.7.21
 ## Progress made - 
 
-* William and Lucas congregated for one final time at William's house to complete our project.
+* William and Lucas congregated for the final times at William's house in order to finish our project. 
 * We came to the consensus that we would rather have a finished project with not all of the components we initially wanted to include, than a memorial for an incomplete project. Furthermore, in order to create a finished project we had to remove less important aspects such as the counterweight and the LCD screen. 
+* 
 
 
 # [BACK TO TOP](#RobotArm)
